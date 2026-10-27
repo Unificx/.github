@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img alt="Unificx: AI products for customer experience, communication and hiring" src="./banner-light.svg" width="100%">
+  <img alt="UnifiCX: AI products for customer experience, communication and hiring" src="./banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
